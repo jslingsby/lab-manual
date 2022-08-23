@@ -4,7 +4,7 @@
 
 ...and this is the lab!!!
 
-The focus of our work is to improve our fundamental understanding of African terrestrial ecosystems and translate that knowledge into tools to assist the management and conservation of their biodiversity and contributions to people. More about our group's research activity can be found on our [website](https://plantecologi.github.io).
+The focus of our work is to improve our fundamental understanding of African terrestrial ecosystems and translate that knowledge into tools to assist the management and conservation of their biodiversity and contributions to people. More about our group's research activity can be found on our [website](https://plantecolo.gy/).
 
 This manual is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It's also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Jasper (jasper.slingsby\@uct.ac.za) or make a pull request.
 
