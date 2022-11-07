@@ -19,7 +19,9 @@ See the next chapter for more detail on our lab culture and philosophy. We are m
 
 ## How we meet
 
-Currently, we hold weekly lab meetings (Mondays, 10AM) and individual meetings with Jasper.
+Currently, we hold weekly lab meetings (Mondays, 11AM) and individual meetings with Jasper.
+
+We hold a monthly journal club starting at 10AM on the last Monday of the month.
 
 We use Google Docs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own doc for their 1:1 meetings with Jasper. Prior to each meeting, create your agenda for that meeting in your Google Doc.
 
@@ -47,7 +49,7 @@ We have standard ways of sharing things. These don't always have to be followed 
 
 Taking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in Wilson et. al paper linked above).
 
-Project management tools in Github are a good way to record and document questions on analyses. Use 'Issues' on github repositories for project-related tasks and problems. Alternatively, make use of a Google Doc for each project to record this history, much like you would a lab notebook.
+Project management tools in Github are a good way to record and document questions on analyses. Use 'Issues' on github repositories for project-related tasks and problems. Alternatively, make use of a Google Doc for each project to record this history, much like you would a lab notebook. There's also a lab Basecamp (online project management software) account that some students are using for them (and Jasper) to keep track of the project. If you'd like to try that, let Jasper know.
 
 *Code:* is shared via Github repositories. If you're not familiar with Github when joining the lab, this will be part of your [*Onboarding*](https://jslingsby.github.io/04-onboarding.html). For specific questions on problems, please try to create a minimal reproducible example. Ensure that others can run and interact with the material being shared. We mostly work in R, but there are always exceptions.
 
@@ -55,7 +57,7 @@ Project management tools in Github are a good way to record and document questio
 
 *Data:* A copy of your raw data must be kept in your Google Drive folder shared with you by Jasper. All data analysis need to start with these raw data files, although you can create intermediate "clean" data files or objects by running a data cleaning script. 
 
-We [may] also share our institutional knowledge through a lab-chat github 'issues' repository. This would be a community-driven troubleshooting resource. Jasper will look into settng this up.
+We also share our institutional knowledge through a [*lab-chat*](https://github.com/PlantEcologi/lab-chat/) Github 'issues' repository. This is a community-driven troubleshooting resource.
 
 We maintain a Google Drive folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.
 
@@ -66,8 +68,8 @@ Where to find shared resources:
 - *Google Drive* - You will be given access to the shared drive during onboarding, take a look at the Lab Meetings folder to find Lab Meeting Notes
 - *GitHub* - [PlantEcologi](https://github.com/PlantEcologi) is the shared GitHub account for the lab. The repository for all lab projects (students, postdocs, etc) must be owned by the lab account. Speak to Jasper if you want to create a new repo and don't have sufficient rights. 
 - *lab-manual* - [This repository](https://github.com/jslingsby/lab-manual) contains the lab manual
-- *lab-chat* - This repository contains shared institutional knowledge for the lab
-- *Website* - Take a look at the lab website
+- *lab-chat* - [This repository](https://github.com/PlantEcologi/lab-chat/) contains shared institutional knowledge for the lab
+- *Website* - Take a look at the [lab website](http://plantecolo.gy/)
 
 ## References
 
