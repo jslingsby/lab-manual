@@ -1,9 +1,10 @@
 <p align="center"> 
-   :sparkles: Welcome to the Faylab Lab Manual! :sparkles: 
+   :sparkles: Welcome to the Plant Ecology Lab Manual! :sparkles: 
 </p>
 
+www.plantecolo.gy
 
-This ~~bookdown~~ Quarto book is intended to be used for **incoming, current, and outgoing** members of the Fay lab group. If we missed anything, please let Gavin Fay (gfay@umassd.edu) or Madeleine Guyant (mguyant@umassd.edu) know. You can also do a pull request and we will review the changes. 
+This ~~bookdown~~ Quarto book is intended to be used for **incoming, current, and outgoing** members of the Plant Ecology Lab group. If we missed anything, please let Jasper (jasper.slingsby@uct.ac.za) know. You can also do a pull request and we will review the changes. 
 
 We hope this has all the answers you need!
 
@@ -12,9 +13,7 @@ __Want to adapt the lab manual for your group?__ This [short tutorial](https://g
 
 **Acknowledgements**
 
-The content for this book was developed as part of our group’s participation in the Openscapes Champions program.
-We are extremely grateful to and acknowledge [Dr. Julia Stewart Lowndes](https://github.com/jules32)’ role in helping shape how our lab both works and how we articulate our identity. 🙏
-Thanks also to [Ileana Fenwick](https://github.com/IleanaF) and [Stefanie Butland](https://github.com/stefaniebutland) for their work moving the lab-manual from bookdown to Quarto. 🙌
+This lab manual was adapted from [The Fay Lab manual](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it). 🙏 Thanks Gavin and team! 🙌
 
 ---
 
