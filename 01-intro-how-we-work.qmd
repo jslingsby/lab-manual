@@ -8,7 +8,7 @@ bibliography: references.bib
 
 We do terrestrial ecology to improve understanding and support decision-making and conservation of African ecosystems. 
 
-As far as we can, we conduct our work using Open Data Science principles, emphasizing scientific excellence that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available so that they can be reused, reanalyzed, learnt from and built on. As a general guide to what this means, check out our [course notes](https://jslingsby.github.io/data-management/). Specifics of how this is implemented in the lab are detailed below.
+As far as we can, we conduct our work using Open Data Science principles, emphasizing scientific excellence that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available so that they can be reused, reanalyzed, learnt from and built on. As a general guide to what this means, check out our [reproducible research course notes](https://jslingsby.github.io/data-management/). Specifics of how this is implemented in the lab are detailed below.
 
 See the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:
 
@@ -21,13 +21,13 @@ See the next chapter for more detail on our lab culture and philosophy. We are m
 
 Currently, we hold weekly lab meetings (Mondays, 11AM) and individual meetings with Jasper.
 
-We hold a monthly journal club starting at 10AM on the last Monday of the month.
+We hold a journal club to discuss papers, do mock presentations or get feedback on preliminary results. These are somewhat ad hoc, linked to the lab meeting and occur roughly once a month.
 
-We use Google Docs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own doc for their 1:1 meetings with Jasper. Prior to each meeting, create your agenda for that meeting in your Google Doc.
+We use Google Docs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own doc for their 1:1 meetings with Jasper. Prior to each meeting, please create your agenda for that meeting in your Google Doc.
 
 ## How we give feedback
 
-Feedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is when giving and attending practice talks or as part of the writing club. We expect feedback to be supportive but constructive. Nasty comments are not welcome, but we also don't beat around the bush if tere are issues to be raised.
+Feedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is when giving and attending practice talks or as part of the writing club. We expect feedback to be supportive but constructive. Nasty comments are not welcome, but we also don't beat around the bush if there are issues to be raised.
 
 This [resource from UBC](https://scwrl.ubc.ca/stem-writing-resources/strategies-for-writing/peer-review/) does a really great job of outlining the main points of how to give and receive feedback.
 
@@ -40,22 +40,22 @@ Please, please, please, take five minutes to read the Kearns and Gardiner commen
 Beyond that, here are 3 additional points to be aware of:
 
 1. As Dr Seuss says *"Unslumping yourself is not easily done."* While there are suspicions among the lab members, Jasper professes that he cannot read your mind. This means that he can't possibly know what you need or when you're stuck. The consequence is that you may have to be stuck for an unnecessarily long time before he notices, which can put you behind schedule and risk you failing to complete the degree in time. You do have one easy first step - tell Jasper! He'll do whatever he can to help, even if this means passing you onto someone else or applying [tough love.](https://en.wikipedia.org/wiki/Tough_love)
-2. "*You lead your projects*. You don't work for Jasper. Jasper works with you on your projects." (to paraphrase [@markowetz2015a]). Your degree or postdoc is aimed at your professional development. The more responsibility you take, the more you'll get out of it. While Jasper may have provided he idea and funding, once he's handed you the project you are the leader, his role is to help keep you on track. While there may be some tension between you taking leadership and avoiding getting stuck in a slump (point 1), open communication with Jasper will help you find the happy balance.
-3. *Your adviser does not have to be your only mentor!* There are many paths in academia and related careers, and many different personalities. Your adviser cannot provide everything! That said, they do have good networks and can probably help you find additional mentors to help address your specific needs, be they related to science, personal interests, race, gender, sexuality, etc.
+2. "*You lead your projects*. You don't work for Jasper. Jasper works with you on your projects." (to paraphrase [@markowetz2015a]). Your degree or postdoc is aimed at your professional development. The more responsibility you take, the more you'll get out of it. While Jasper may have provided the idea and funding, once he's handed you the project you are the leader. His role is to help keep you on track. While there may be some tension between you taking leadership and avoiding getting stuck in a slump (point 1), open communication with Jasper will help you find the happy balance.
+3. *Your adviser does not have to be your only mentor!* There are many paths in academia and related careers, and many different personalities and backgrounds. Your adviser cannot provide everything! That said, they do have good networks and can probably help you find additional mentors to help address your specific needs, be they related to science, personal interests, race, gender, sexuality, etc.
 
 ## How we share things
 
 We have standard ways of sharing things. These don't always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to *make it as easy as possible for them to help you.*
 
-Taking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in Wilson et. al paper linked above).
+Taking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in the Wilson et. al paper linked above).
 
 Project management tools in Github are a good way to record and document questions on analyses. Use 'Issues' on github repositories for project-related tasks and problems. Alternatively, make use of a Google Doc for each project to record this history, much like you would a lab notebook. There's also a lab Basecamp (online project management software) account that some students are using for them (and Jasper) to keep track of the project. If you'd like to try that, let Jasper know.
 
-*Code:* is shared via Github repositories. If you're not familiar with Github when joining the lab, this will be part of your [*Onboarding*](https://jslingsby.github.io/04-onboarding.html). For specific questions on problems, please try to create a minimal reproducible example. Ensure that others can run and interact with the material being shared. We mostly work in R, but there are always exceptions.
+- *Code:* is shared via Github repositories. If you're not familiar with Github when joining the lab, this will be part of your [*Onboarding*](https://jslingsby.github.io/04-onboarding.html). For specific questions on problems, please try to create a minimal reproducible example. Ensure that others can run and interact with the material being shared. We mostly work in R, but there are always exceptions.
 
-*Writing:* Preferably via Google Doc, R Markdown/Quarto (shared via a Github repository), or Overleaf. If it is a thesis chapter that you want feedback on, please also share it with Jasper as a PDF. Documents should always have your last name as the first part of the file name (e.g. please no "mythesis.doc").
+- *Writing:* Preferably via Google Doc, R Markdown/Quarto (shared via a Github repository), or Overleaf. If it is a thesis chapter that you want feedback on, please also share it with Jasper as a PDF. Documents should always have your last name as the first part of the file name (e.g. please no "mythesis.doc").
 
-*Data:* A copy of your raw data must be kept in your Google Drive folder shared with you by Jasper. All data analysis need to start with these raw data files, although you can create intermediate "clean" data files or objects by running a data cleaning script. 
+- *Data:* A copy of your raw data must be kept in your Google Drive folder shared with you by Jasper. All data analysis need to start with these raw data files, although you can create intermediate "clean" data files or objects by running a data cleaning script. 
 
 We also share our institutional knowledge through a [*lab-chat*](https://github.com/PlantEcologi/lab-chat/) Github 'issues' repository. This is a community-driven troubleshooting resource.
 
