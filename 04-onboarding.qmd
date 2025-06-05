@@ -1,14 +1,12 @@
 # Onboarding {#onboarding}
 
-Welcome to the Fay Lab at UMass Dartmouth!
+Welcome to the Plant Ecology Lab at the University of Cape Town!
 
 ![](img/forestgump.gif)
 
-Here are some resources to help you get settled into the Lab.  
+We're excited that you decided to join our team! 
 
-Our group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to SMAST seamless and enjoyable. Most importantly, welcome!  
-
-If you are already a student, post-doc, or researcher we hope these resources prove useful as well.  
+Below are some resources to help you get settled into the Lab, University and City.  
 
 ## MyUMassD SMAST Occupants page
 
@@ -22,7 +20,7 @@ SMAST related resources, forms, policies, procedures, calendars, as well as job 
 
 ## Individual Development/Mentoring plans
 
-Within the first few weeks of joining the Fay Lab, you should work with Gavin to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in Chapter \@ref(expectations).
+Within the first few weeks of joining the Fay Lab, you should work with Jasper to develop a plan outlining your short, medium, and long term goals. More on individual developing plans can be found in Chapter \@ref(expectations).
 
 ## Timesheets
 
